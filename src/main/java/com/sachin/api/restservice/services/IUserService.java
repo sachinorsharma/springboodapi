@@ -4,6 +4,7 @@ import java.util.List;
 
 import com.sachin.api.restservices.entities.User;
 
+//service interface
 public interface IUserService {
 	
 
