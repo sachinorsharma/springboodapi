@@ -10,8 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloWorldController {
 
 	//Simple Method Example
-	//GRI- /helloworld
-	//Get
+	//GRI- /hellowor
 	//@RequestMapping(method=RequestMethod.GET, path="/helloworld")
 	@GetMapping("/helloworld")
 	public String helloWorld()
